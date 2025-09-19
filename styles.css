@@ -5,13 +5,13 @@
 }
 .para::before {
 	content: "Before Element ";
-	color:#f00;
+	color:rgb(255, 0, 0);
 	font-size:20px;
 	display:inline;
 }
 .para::after{
 	content:" After Element";
-	color:#f00;
+	color:rgb(255, 0, 0);
 	font-size:20px;
 	display:inline;
 }
